@@ -10,3 +10,6 @@ The dataset is from https://datahub.io/sports-data/spanish-la-liga. It contains 
 ## 3. Findings
 By fitting Poisson Distribution and NBD to the data,
 the project found that there were two group of teams in Spanish La Liga League: one with higher average home-game goal of 2.6, and the other with relatively lower average home-game goal of 1.2
+
+
+More precise explanation could be find in the report file.
